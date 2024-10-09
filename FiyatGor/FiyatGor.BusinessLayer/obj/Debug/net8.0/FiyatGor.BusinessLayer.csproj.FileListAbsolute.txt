@@ -1,0 +1,119 @@
+E:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.deps.json
+E:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.runtimeconfig.json
+E:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.dll
+E:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+E:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+E:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.AssemblyReference.cache
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfoInputs.cache
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfo.cs
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.97C6AF1E.Up2Date
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.dll
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\refint\FiyatGor.BusinessLayer.dll
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.genruntimeconfig.cache
+E:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\ref\FiyatGor.BusinessLayer.dll
+D:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.deps.json
+D:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.runtimeconfig.json
+D:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.dll
+D:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+D:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.AssemblyReference.cache
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfoInputs.cache
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfo.cs
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.97C6AF1E.Up2Date
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.dll
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\refint\FiyatGor.BusinessLayer.dll
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.genruntimeconfig.cache
+D:\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\ref\FiyatGor.BusinessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.deps.json
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.runtimeconfig.json
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.AssemblyReference.cache
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfoInputs.cache
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfo.cs
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.97C6AF1E.Up2Date
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\refint\FiyatGor.BusinessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.genruntimeconfig.cache
+D:\kopya yeni\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\ref\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.deps.json
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.97C6AF1E.Up2Date
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\refint\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\ref\FiyatGor.BusinessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.deps.json
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.runtimeconfig.json
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.AssemblyReference.cache
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfoInputs.cache
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfo.cs
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.97C6AF1E.Up2Date
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\refint\FiyatGor.BusinessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.genruntimeconfig.cache
+D:\yenii\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\ref\FiyatGor.BusinessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.deps.json
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.runtimeconfig.json
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.AssemblyReference.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfoInputs.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfo.cs
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.97C6AF1E.Up2Date
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\refint\FiyatGor.BusinessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.genruntimeconfig.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\ref\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.deps.json
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.97C6AF1E.Up2Date
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\refint\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\FiyatGor.BusinessLayer.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.BusinessLayer\obj\Debug\net8.0\ref\FiyatGor.BusinessLayer.dll

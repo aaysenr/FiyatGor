@@ -1,0 +1,98 @@
+D:\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.deps.json
+D:\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.runtimeconfig.json
+D:\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.AssemblyReference.cache
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfoInputs.cache
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfo.cs
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\refint\FiyatGor.DataAccessLayer.dll
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.genruntimeconfig.cache
+D:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\ref\FiyatGor.DataAccessLayer.dll
+E:\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.deps.json
+E:\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.runtimeconfig.json
+E:\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+E:\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.AssemblyReference.cache
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfoInputs.cache
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfo.cs
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\refint\FiyatGor.DataAccessLayer.dll
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.genruntimeconfig.cache
+E:\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\ref\FiyatGor.DataAccessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.deps.json
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.runtimeconfig.json
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.AssemblyReference.cache
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfoInputs.cache
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfo.cs
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\refint\FiyatGor.DataAccessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.genruntimeconfig.cache
+D:\kopya yeni\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\ref\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.deps.json
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\refint\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\ref\FiyatGor.DataAccessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.deps.json
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.runtimeconfig.json
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.AssemblyReference.cache
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfoInputs.cache
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfo.cs
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\refint\FiyatGor.DataAccessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.genruntimeconfig.cache
+D:\yenii\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\ref\FiyatGor.DataAccessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.deps.json
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.runtimeconfig.json
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfo.cs
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\refint\FiyatGor.DataAccessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.genruntimeconfig.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\ref\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.deps.json
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\bin\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\refint\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\FiyatGor.DataAccessLayer.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.DataAccessLayer\obj\Debug\net8.0\ref\FiyatGor.DataAccessLayer.dll

@@ -1,0 +1,1033 @@
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.AssemblyReference.cache
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.DeleteStokForm.resources
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GetStokForm.resources
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.ListStokForm.resources
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.MainForm.resources
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.UpdateStokForm.resources
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.GenerateResource.cache
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfoInputs.cache
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfo.cs
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.CoreCompileInputs.cache
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.exe
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\appsettings.json
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.deps.json
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.runtimeconfig.json
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Humanizer.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\MySqlConnector.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.pdb
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.pdb
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.41168DD9.Up2Date
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\refint\FiyatGor.PresentationLayerWinForms.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.genruntimeconfig.cache
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\ref\FiyatGor.PresentationLayerWinForms.dll
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Properties.Resources.resources
+E:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\AddStokForm.resources
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.exe
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\appsettings.json
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.deps.json
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.runtimeconfig.json
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Humanizer.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.pdb
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.pdb
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.AssemblyReference.cache
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.DeleteStokForm.resources
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GetStokForm.resources
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.MainForm.resources
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.UpdateStokForm.resources
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.GenerateResource.cache
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfoInputs.cache
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfo.cs
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.CoreCompileInputs.cache
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.41168DD9.Up2Date
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\refint\FiyatGor.PresentationLayerWinForms.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.genruntimeconfig.cache
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\ref\FiyatGor.PresentationLayerWinForms.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.ListStokForm.resources
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Properties.Resources.resources
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.exe
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\appsettings.json
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.deps.json
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.runtimeconfig.json
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Humanizer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.AssemblyReference.cache
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\AddStokForm.resources
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.DeleteStokForm.resources
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GetStokForm.resources
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.ListStokForm.resources
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.MainForm.resources
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Properties.Resources.resources
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.UpdateStokForm.resources
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.GenerateResource.cache
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfoInputs.cache
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfo.cs
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.CoreCompileInputs.cache
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.41168DD9.Up2Date
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\refint\FiyatGor.PresentationLayerWinForms.dll
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.genruntimeconfig.cache
+D:\kopya yeni\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\ref\FiyatGor.PresentationLayerWinForms.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.exe
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.deps.json
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\AddStokForm.resources
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.DeleteStokForm.resources
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GetStokForm.resources
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.ListStokForm.resources
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.MainForm.resources
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Properties.Resources.resources
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.UpdateStokForm.resources
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.GenerateResource.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.41168DD9.Up2Date
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\refint\FiyatGor.PresentationLayerWinForms.dll
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\ref\FiyatGor.PresentationLayerWinForms.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.exe
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\appsettings.json
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.deps.json
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.runtimeconfig.json
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Humanizer.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.pdb
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.pdb
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.AssemblyReference.cache
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\AddStokForm.resources
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.DeleteStokForm.resources
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GetStokForm.resources
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.ListStokForm.resources
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.MainForm.resources
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Properties.Resources.resources
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.UpdateStokForm.resources
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.GenerateResource.cache
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfoInputs.cache
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfo.cs
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.CoreCompileInputs.cache
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.41168DD9.Up2Date
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\refint\FiyatGor.PresentationLayerWinForms.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.genruntimeconfig.cache
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\ref\FiyatGor.PresentationLayerWinForms.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.BarcodeScannerWithDeviceForm.resources
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronBarcodeDetection.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronBarCode.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\BitMiracle.LibTiff.NET.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronSoftware.Abstractions.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronSoftware.Logger.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronSoftware.Shared.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronSoftware.Drawing.Common.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.ML.OnnxRuntime.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\SixLabors.ImageSharp.Drawing.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\linux-x64\native\IronBarcodeInterop.so
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\linux-x64\native\ReaderInterop.so
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\IronBarcodeInterop.dylib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\ReaderInterop.dylib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-x64\native\IronBarcodeInterop.dylib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-x64\native\ReaderInterop.dylib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\IronBarcodeInterop.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\ReaderInterop.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\IronBarcodeInterop.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\ReaderInterop.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\android\native\onnxruntime.aar
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\Info.plist
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\coreml_provider_factory.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\cpu_provider_factory.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_c_api.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_float16.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_run_options_config_keys.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_session_options_config_keys.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Info.plist
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\onnxruntime
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\coreml_provider_factory.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\cpu_provider_factory.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_c_api.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_float16.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_run_options_config_keys.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_session_options_config_keys.h
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Info.plist
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\onnxruntime
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libonnxruntime.so
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libonnxruntime.so
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libonnxruntime.dylib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libonnxruntime.dylib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\onnxruntime.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\onnxruntime.lib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\onnxruntime.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\onnxruntime.lib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\onnxruntime.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\onnxruntime.lib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+D:\yenii\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.BarcodeScannerWithImageForm.resources
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronBarcodeDetection.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronBarCode.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\BitMiracle.LibTiff.NET.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronSoftware.Abstractions.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronSoftware.Logger.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronSoftware.Shared.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\IronSoftware.Drawing.Common.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.ML.OnnxRuntime.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\SixLabors.ImageSharp.Drawing.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\linux-x64\native\IronBarcodeInterop.so
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\linux-x64\native\ReaderInterop.so
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\IronBarcodeInterop.dylib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\ReaderInterop.dylib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-x64\native\IronBarcodeInterop.dylib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-x64\native\ReaderInterop.dylib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\IronBarcodeInterop.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\ReaderInterop.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\IronBarcodeInterop.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\ReaderInterop.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\android\native\onnxruntime.aar
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\Info.plist
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\coreml_provider_factory.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\cpu_provider_factory.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_c_api.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_float16.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_run_options_config_keys.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_session_options_config_keys.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Info.plist
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\onnxruntime
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\coreml_provider_factory.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\cpu_provider_factory.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_c_api.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_float16.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_run_options_config_keys.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_session_options_config_keys.h
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Info.plist
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\onnxruntime
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libonnxruntime.so
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libonnxruntime.so
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libonnxruntime.dylib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libonnxruntime.dylib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\onnxruntime.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\onnxruntime.lib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\onnxruntime.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\onnxruntime.lib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\onnxruntime.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\onnxruntime.lib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.BarcodeScannerWithDeviceForm.resources
+D:\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AddStokForm.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.exe
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\appsettings.json
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.deps.json
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.runtimeconfig.json
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.AssemblyReference.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AddStokForm.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.BarcodeScannerWithDeviceForm.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.DeleteStokForm.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GetStokForm.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.ListStokForm.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.MainForm.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Properties.Resources.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.UpdateStokForm.resources
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.GenerateResource.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfoInputs.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfo.cs
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.CoreCompileInputs.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.41168DD9.Up2Date
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\refint\FiyatGor.PresentationLayerWinForms.dll
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.genruntimeconfig.cache
+D:\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\ref\FiyatGor.PresentationLayerWinForms.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.exe
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.deps.json
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.BusinessLayer.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\bin\Debug\net8.0-windows\FiyatGor.DataAccessLayer.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.AssemblyReference.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AddStokForm.resources
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.BarcodeScannerWithDeviceForm.resources
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.DeleteStokForm.resources
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GetStokForm.resources
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Forms.ListStokForm.resources
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.MainForm.resources
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.Properties.Resources.resources
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.UpdateStokForm.resources
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.GenerateResource.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.41168DD9.Up2Date
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\refint\FiyatGor.PresentationLayerWinForms.dll
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.pdb
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\FiyatGor.PresentationLayerWinForms.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\Teslim-Proje\FiyatGor\FiyatGor.PresentationLayerWinForms\obj\Debug\net8.0-windows\ref\FiyatGor.PresentationLayerWinForms.dll
